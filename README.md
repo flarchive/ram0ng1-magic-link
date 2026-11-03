@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of ramon/magic-link.** Not for installation: use [Packagist](https://packagist.org/packages/ramon/magic-link) or the [upstream repository](https://github.com/ram0ng1/magic-link).
 
-**0** versions archived · Latest: [`v1.0.1`](https://github.com/flarchive/ram0ng1-magic-link/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^2.0.0`
+**2** versions archived · Latest: [`v1.0.1`](https://github.com/flarchive/ram0ng1-magic-link/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^2.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2026-11-03 | `^2.0.0` | [Browse](https://github.com/flarchive/ram0ng1-magic-link/tree/archive/v1.0.0) |
+| `v1.0.1` | 2026-11-03 | `^2.0.0` | [Browse](https://github.com/flarchive/ram0ng1-magic-link/tree/archive/v1.0.1) |
 
 Catalog entry: [packages/ram0ng1-magic-link.json](https://github.com/flarchive/archive-index/blob/main/packages/ram0ng1-magic-link.json)
 
